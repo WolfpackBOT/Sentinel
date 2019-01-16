@@ -1,1 +1,1 @@
-# Sentinel
+# Wolfcoin Sentinel
